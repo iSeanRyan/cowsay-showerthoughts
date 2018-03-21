@@ -26,8 +26,6 @@ Run the setup
 
 ```
 chmod +x setup.sh
-
-```
 ./setup.sh
 ```
 
